@@ -1,4 +1,4 @@
-X1=importdata('.\\TLM\\OUT.ris');
+X1=importdata('./TLM/OUT.ris');
 X=X1.data;
 T=X(:,1);
 GAM  = X(:,8);    % крен
