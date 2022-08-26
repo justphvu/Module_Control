@@ -1,0 +1,4 @@
+/home/cyberlap3/Downloads/clion-2022.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/cyberlap3/Downloads/clion-2022.2/bin/ninja/linux/ninja -G Ninja -S "/home/cyberlap3/Desktop/Work/Модели/OPTIMIZATION_METHOD _WITH_T0" -B "/home/cyberlap3/Desktop/Work/Модели/OPTIMIZATION_METHOD _WITH_T0/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cyberlap3/Desktop/Work/Модели/OPTIMIZATION_METHOD _WITH_T0/cmake-build-debug

@@ -22,8 +22,8 @@ function [U] = CONTROL(U0,X,Xd,TIME)
             DS0=DS;        SS0=0.0;    dSf0=0.0;
         end
 
-        %% ¬ычисление требуемого значени€ угла тангажа
-        kP=0.752072;    kI=0.008622;    kD=0.414905;
+        %% ¬ычисление ребуемого значени€ угла тангажа
+        kP=100;    kI=-0.3;    kD=23;
         [DU,SS,dSf]=FCONTROL(DS,DS0,SS0,kP,kI,kD);
         DS0=DS; SS0=SS; dSf0=dSf;
 

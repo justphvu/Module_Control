@@ -1,3 +1,0 @@
-/home/cyberlap3/Downloads/OPTIMIZATION METHOD _WITH T0/cmake-build-debug/CMakeFiles/OPTIMIZATION_METHOD__WITH_T0.dir
-/home/cyberlap3/Downloads/OPTIMIZATION METHOD _WITH T0/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/cyberlap3/Downloads/OPTIMIZATION METHOD _WITH T0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

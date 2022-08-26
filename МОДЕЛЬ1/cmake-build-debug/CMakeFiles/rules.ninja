@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/cyberlap3/Downloads/clion-2022.2/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/cyberlap3/Desktop/Work/МОДЕЛЬ1 -B/home/cyberlap3/Desktop/Work/МОДЕЛЬ1/cmake-build-debug
+  command = /home/cyberlap3/Downloads/clion-2022.2/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1 -B/home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 
