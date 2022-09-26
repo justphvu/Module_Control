@@ -1,3 +1,3 @@
-/home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug/CMakeFiles/1.dir
-/home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)/cmake-build-debug/CMakeFiles/1.dir
+/home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

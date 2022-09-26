@@ -1,4 +1,4 @@
-/home/cyberlap3/Downloads/clion-2022.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/cyberlap3/Downloads/clion-2022.2/bin/ninja/linux/ninja -G Ninja -S /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1 -B /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug
+/home/cyberlap3/Downloads/clion-2022.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/cyberlap3/Downloads/clion-2022.2/bin/ninja/linux/ninja -G Ninja -S "/home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)" -B "/home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)/cmake-build-debug"
 -- The C compiler identification is GNU 9.4.0
 -- The CXX compiler identification is GNU 9.4.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug
+-- Build files have been written to: /home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)/cmake-build-debug

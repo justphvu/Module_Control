@@ -1,3 +1,5 @@
+# По методу Рунге-Кутты
+
 function [xnew, xd] = RK4(fx, time, dt, xx, U)
 %% 1st call
 [xd]=fx(xx,U,time);

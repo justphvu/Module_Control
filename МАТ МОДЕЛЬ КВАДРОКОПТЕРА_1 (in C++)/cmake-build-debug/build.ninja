@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug/
+cmake_ninja_workdir = /home/cyberlap3/Desktop/Work/Модели/МАТ$ МОДЕЛЬ$ КВАДРОКОПТЕРА_1$ (in$ C++)/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target 1
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cm
 
 build cmake_object_order_depends_target_1: phony || CMakeFiles/1.dir
 
-build CMakeFiles/1.dir/main.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/main.cpp || cmake_object_order_depends_target_1
+build CMakeFiles/1.dir/main.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/Work/Модели/МАТ$ МОДЕЛЬ$ КВАДРОКОПТЕРА_1$ (in$ C++)/main.cpp || cmake_object_order_depends_target_1
   DEP_FILE = CMakeFiles/1.dir/main.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/1.dir
@@ -57,7 +57,7 @@ build CMakeFiles/1.dir/main.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop
   TARGET_COMPILE_PDB = CMakeFiles/1.dir/
   TARGET_PDB = 1.pdb
 
-build CMakeFiles/1.dir/fx.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/fx.cpp || cmake_object_order_depends_target_1
+build CMakeFiles/1.dir/fx.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/Work/Модели/МАТ$ МОДЕЛЬ$ КВАДРОКОПТЕРА_1$ (in$ C++)/fx.cpp || cmake_object_order_depends_target_1
   DEP_FILE = CMakeFiles/1.dir/fx.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/1.dir
@@ -65,7 +65,7 @@ build CMakeFiles/1.dir/fx.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/W
   TARGET_COMPILE_PDB = CMakeFiles/1.dir/
   TARGET_PDB = 1.pdb
 
-build CMakeFiles/1.dir/rks.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/rks.cpp || cmake_object_order_depends_target_1
+build CMakeFiles/1.dir/rks.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/Work/Модели/МАТ$ МОДЕЛЬ$ КВАДРОКОПТЕРА_1$ (in$ C++)/rks.cpp || cmake_object_order_depends_target_1
   DEP_FILE = CMakeFiles/1.dir/rks.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/1.dir
@@ -73,7 +73,7 @@ build CMakeFiles/1.dir/rks.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/
   TARGET_COMPILE_PDB = CMakeFiles/1.dir/
   TARGET_PDB = 1.pdb
 
-build CMakeFiles/1.dir/cntrl.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cntrl.cpp || cmake_object_order_depends_target_1
+build CMakeFiles/1.dir/cntrl.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/Work/Модели/МАТ$ МОДЕЛЬ$ КВАДРОКОПТЕРА_1$ (in$ C++)/cntrl.cpp || cmake_object_order_depends_target_1
   DEP_FILE = CMakeFiles/1.dir/cntrl.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/1.dir
@@ -81,7 +81,7 @@ build CMakeFiles/1.dir/cntrl.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Deskto
   TARGET_COMPILE_PDB = CMakeFiles/1.dir/
   TARGET_PDB = 1.pdb
 
-build CMakeFiles/1.dir/modeling.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/modeling.cpp || cmake_object_order_depends_target_1
+build CMakeFiles/1.dir/modeling.cpp.o: CXX_COMPILER__1_Debug /home/cyberlap3/Desktop/Work/Модели/МАТ$ МОДЕЛЬ$ КВАДРОКОПТЕРА_1$ (in$ C++)/modeling.cpp || cmake_object_order_depends_target_1
   DEP_FILE = CMakeFiles/1.dir/modeling.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/1.dir
@@ -111,7 +111,7 @@ build 1: CXX_EXECUTABLE_LINKER__1_Debug CMakeFiles/1.dir/main.cpp.o CMakeFiles/1
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug && /home/cyberlap3/Downloads/clion-2022.2/bin/cmake/linux/bin/ccmake -S/home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1 -B/home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug
+  COMMAND = cd "/home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)/cmake-build-debug" && /home/cyberlap3/Downloads/clion-2022.2/bin/cmake/linux/bin/ccmake -S"/home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)" -B"/home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)/cmake-build-debug"
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -123,7 +123,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug && /home/cyberlap3/Downloads/clion-2022.2/bin/cmake/linux/bin/cmake --regenerate-during-build -S/home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1 -B/home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug
+  COMMAND = cd "/home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)/cmake-build-debug" && /home/cyberlap3/Downloads/clion-2022.2/bin/cmake/linux/bin/cmake --regenerate-during-build -S"/home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)" -B"/home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)/cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -139,7 +139,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /home/cyberlap3/Desktop/Work/Модели/МОДЕЛЬ1/cmake-build-debug
+# Folder: /home/cyberlap3/Desktop/Work/Модели/МАТ МОДЕЛЬ КВАДРОКОПТЕРА_1 (in C++)/cmake-build-debug
 
 build all: phony 1
 
