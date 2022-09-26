@@ -8,4 +8,4 @@ Lời khuyên dành cho người đọc:
       
       Hãy bắt đàu với những thư mục МАТ МОДЕЛЬ КВАДРОКОПТЕРА từ 1 đến n, đọc, hiểu code và tài liệu đính kèm bên trong (dựa trên chúng, code được viết ra)
       
-      Bên cạnh đó những tài liệu bên ngoài cũng giúp ích cho việc khái quát dự án t
+      Bên cạnh đó những tài liệu bên ngoài cũng giúp ích cho việc khái quát dự án tổng
